@@ -1403,6 +1403,7 @@ EOF;
           'svg' => 'image/svg+xml',
           'svgz' => 'image/svg+xml',
           'tiff' => 'image/tiff',
+          'webp' => 'image/webp',
           'tif' => 'image/tiff',
           'wbmp' => 'image/vnd.wap.wbmp',
           'ras' => 'image/x-cmu-raster',
